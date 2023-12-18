@@ -1,7 +1,6 @@
 ![MasterHead](https://science.osti.gov/-/media/Initiatives/images/ai_banner.jpg?h=320&w=905&la=en&hash=8F62F5794F19B008A2812A1C2B4421B59252ED230302C24709FDDDDA3453A5D1)
 <h1 align="center">Hi, I'm Muhsin DOLU</h1>
 <h3 align="center">Artificial intelligence developer from Turkey</h3>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/muhsin_dolu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muhsin_dolu" height="30" width="40" /></a>
