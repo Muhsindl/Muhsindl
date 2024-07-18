@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Muhsin DOLU</h1>
-<h3 align="center">I'm a research artificial intelligence developer in Turkey</h3>
-
+<h4 align="center">I'm a research artificial intelligence developer in Turkey</h4>
+<img src="https://hessian.ai/wp-content/uploads/2022/03/AdobeStock_408552325_web.jpg" alt="Yapay Zeka">
 - 🌱 I’m currently learning **Artificial Intelligence**
 
 - 📫 How to reach me **muhsindolu06@gmail.com**
