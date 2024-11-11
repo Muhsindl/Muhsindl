@@ -1,10 +1,12 @@
 <h1 align="center">Hello, I'm Muhsin DOLU</h1>
 <h3 align="center">I'm a research artificial intelligence developer in Turkey.</h3>
 <img src="https://hessian.ai/wp-content/uploads/2022/03/AdobeStock_408552325_web.jpg" alt="Yapay Zeka">
+
 - 📚 I’m currently learning <b>Artificial Intelligence.</b> <br> 
 - 📧 How to reach me: <i>muhsindolu06@gmail.com</i>
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://twitter.com/muhsin_dolu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muhsin_dolu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muhsin-dolu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/muhsin-dolu/" height="30" width="40" /></a>
