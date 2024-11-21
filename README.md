@@ -8,10 +8,12 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
+<a href="https://www.muhsindolu.com.tr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/dribbble.svg" alt="muhsindolu.com.tr" height="30" width="40" /></a>
 <a href="https://twitter.com/muhsin_dolu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muhsin_dolu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muhsin-dolu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/muhsin-dolu/" height="30" width="40" /></a>
 <a href="https://kaggle.com/muhsindolu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="muhsindolu" height="30" width="40" /></a>
 <a href="https://instagram.com/muhsindl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhsindl" height="30" width="40" /></a>
+
 
 </p>
 
