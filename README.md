@@ -1,22 +1,22 @@
-<h1 align="center">Merhaba 👋, Ben Muhsin DOLU</h1>
-<h3 align="center">🤖 Türkiye'de Yapay Zeka Araştırma Geliştirici</h3>
+<h1 align="center">Hi 👋, I'm Muhsin DOLU</h1>
+<h3 align="center">🤖 Artificial Intelligence Research Developer in Turkey</h3>
 
 <p align="center">
-  <img src="https://hessian.ai/wp-content/uploads/2022/03/AdobeStock_408552325_web.jpg" alt="Yapay Zeka" width="600">
+  <img src="https://hessian.ai/wp-content/uploads/2022/03/AdobeStock_408552325_web.jpg" alt="Artificial Intelligence" width="600">
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=muhsindl&label=Profile%20views&color=0e75b6&style=flat" alt="muhsindl" />
 </p>
 
-### 🎯 Odak Noktalarım
+### 🎯 Focus Areas
 
-- 🔭 Yapay Zeka alanında araştırma ve geliştirme yapıyorum
-- 📚 Sürekli olarak **Yapay Zeka** alanında kendimi geliştiriyorum
-- 💬 Yapay Zeka, Makine Öğrenmesi ve Derin Öğrenme konularında sorularınızı yanıtlayabilirim
-- 📫 Bana ulaşmak için: **muhsindolu06@gmail.com**
+- 🔭 I'm currently working on Artificial Intelligence research and development
+- 📚 I'm continuously learning and improving in **Artificial Intelligence**
+- 💬 Ask me about AI, Machine Learning, and Deep Learning
+- 📫 How to reach me: **muhsindolu06@gmail.com**
 
-### 🌐 Sosyal Medya Hesaplarım
+### 🌐 Connect with me
 
 <p align="left">
 <a href="https://linkedin.com/in/muhsin-dolu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhsin-dolu" height="30" width="40" /></a>
@@ -26,10 +26,10 @@
 <a href="https://instagram.com/muhsindl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhsindl" height="30" width="40" /></a>
 </p>
 
-### 💻 Teknolojiler
+### 💻 Technologies
 
 <details>
-<summary>Programlama Dilleri</summary>
+<summary>Programming Languages</summary>
 <br>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -40,7 +40,7 @@
 </details>
 
 <details>
-<summary>Web Teknolojileri</summary>
+<summary>Web Technologies</summary>
 <br>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -51,7 +51,7 @@
 </details>
 
 <details>
-<summary>Yapay Zeka & Veri Bilimi</summary>
+<summary>AI & Data Science</summary>
 <br>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
@@ -62,7 +62,7 @@
 </details>
 
 <details>
-<summary>Veritabanları</summary>
+<summary>Databases</summary>
 <br>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
@@ -72,7 +72,7 @@
 </details>
 
 <details>
-<summary>DevOps & Araçlar</summary>
+<summary>DevOps & Tools</summary>
 <br>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
@@ -81,20 +81,12 @@
 </p>
 </details>
 
-### 📊 GitHub İstatistikleri
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhsindl&show_icons=true&theme=tokyonight&locale=tr" alt="muhsindl" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhsindl&show_icons=true&theme=tokyonight" alt="muhsindl" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhsindl&theme=tokyonight&locale=tr" alt="muhsindl" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhsindl&theme=tokyonight" alt="muhsindl" />
 </p>
-
-![Snake animation](https://github.com/muhsindl/muhsindl/blob/output/github-contribution-grid-snake-dark.svg)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhsindl/muhsindl/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhsindl/muhsindl/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/muhsindl/muhsindl/output/github-contribution-grid-snake.svg">
-</picture>
