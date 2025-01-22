@@ -91,4 +91,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhsindl&theme=tokyonight&locale=tr" alt="muhsindl" />
 </p>
 
-![Snake animation](https://github.com/muhsindl/muhsindl/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/muhsindl/muhsindl/blob/output/github-contribution-grid-snake-dark.svg)
