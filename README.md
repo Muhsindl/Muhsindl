@@ -56,5 +56,5 @@
 
 <h3 align="left">Snake Animation:</h3>
 <p align="center">
-  <img src="https://github.com/<KullanıcıAdınız>/<RepoAdınız>/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  <img src="https://github.com/Muhsindl/Muhsindl/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
