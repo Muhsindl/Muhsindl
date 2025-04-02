@@ -26,7 +26,6 @@
 <a href="https://instagram.com/muhsindl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhsindl" height="30" width="40" /></a>
 </p>
 
-
 ### 💻 Technologies
 
 #### Programming Languages
