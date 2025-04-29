@@ -2,7 +2,7 @@
 <h3 align="center">🤖 Artificial Intelligence Research Developer in Turkey</h3>
 
 <p align="center">
-  <img src="https://www.setav.org/assets/uploads/2025/01/yapay-zeka-tekillik.jpg" alt="Artificial Intelligence" width="600">
+  <img src="https://w0.peakpx.com/wallpaper/262/444/HD-wallpaper-artificial-intelligence-cyber-intelligence.jpg" alt="Artificial Intelligence" width="600">
 </p>
 
 <p align="center">
