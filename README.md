@@ -10,7 +10,6 @@
 </p>
 
 ### 🎯 Focus Areas
-
 - 🔭 I'm currently working on Artificial Intelligence research and development
 - 📚 I'm continuously learning and improving in **Artificial Intelligence**
 - 💬 Ask me about AI, Machine Learning, and Deep Learning
