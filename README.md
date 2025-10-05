@@ -106,16 +106,9 @@ I’m Muhsin DOLU, an AI Research Developer passionate about turning innovative 
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 <div align="center">
-  
-### 🎯 "Turning Coffee into Code, and Code into Intelligence" ☕🤖
 
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-### ⭐ Star my repositories if you find them interesting!
-
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=100&section=footer" width="100%">
 
 </div>
