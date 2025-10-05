@@ -47,7 +47,7 @@ I’m Muhsin DOLU, an AI Research Developer passionate about turning innovative 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🛠️ Tech Arsenal
+## 🛠️ Technological Knowledge
 
 <div align="center">
 
