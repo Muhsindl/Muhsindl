@@ -1,6 +1,14 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=👋I'm+Muhsin+DOLU!;&color=B81414&pause=1000" />
-</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muhsin%20DOLU&fontSize=42&fontAlignY=32&desc=Software%20Engineer%20%7C%20Turkey&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
+</div>
+
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6E57F7&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Software+Developer+in+Progress+%F0%9F%9A%80;Building+Amazing+Projects+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%93%9A)](https://git.io/typing-svg)
+
+</div>
+<br>
+
 
 <div align="center">
   
