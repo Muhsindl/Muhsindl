@@ -111,10 +111,3 @@ I’m Muhsin DOLU, an AI Research Developer passionate about turning innovative 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhsindolu06@gmail.com)
 
 </div>
-
-<div align="center">
-
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=100&section=footer" width="100%">
-
-</div>
